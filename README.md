@@ -1,1 +1,1 @@
-https://github.com/Tavansev/ono-tebe-nado-fd/blob/main/styles/style.css
+https://github.com/Tavansev/ono-tebe-nado-fd
