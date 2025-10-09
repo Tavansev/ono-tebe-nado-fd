@@ -165,9 +165,6 @@
     list-style: none;
     width: 334px;
     min-height: 596px;
-    background-size: cover;
-    background-position: center;
-
 }
 
 .card-link {
@@ -182,6 +179,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-size: cover;
+    background-position: center;
 }
 
 .card__title {
